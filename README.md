@@ -14,13 +14,21 @@ The objective of this project is to analyze the annual sales data for Amazon in 
 
 ## Key Questions (KPIs)
 •	Compare the sales and orders using a single chart.
+
 •	Identify the month with the highest sales and orders.
+
 •	Determine the customer demographic that purchases the most (if applicable).
+
 •	Analyze different order statuses for 2022.
+
 •	List the top 10 states contributing to total sales.
+
 •	Study the relationship between age and gender based on the number of orders (if data is available).
+
 •	Identify the most successful sales channel.
+
 •	Determine the highest-selling product category.
+
 •	Calculate the percentage of total orders delivered.
 
 
@@ -30,6 +38,10 @@ The objective of this project is to analyze the annual sales data for Amazon in 
 3.	Created relevant pivot tables and Power BI visualizations to answer the key questions.
 4.	Designed an interactive Power BI dashboard integrating all pivot tables and applied slicers to make it dynamic.
 5.	Built an intuitive user experience for better insights.
+
+## Dashboard Screen
+
+![Screenshot 2025-04-04 190443](https://github.com/user-attachments/assets/bd2cf135-cce1-4f7c-b355-27a328f05560)
 
 ## Project Insights
 •	The month with the highest sales and orders was identified.
