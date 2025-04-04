@@ -3,13 +3,14 @@
 The objective of this project is to analyze the annual sales data for Amazon in 2022. This will help the business gain insights into customer behavior, product performance, and regional sales trends to enhance sales strategies for 2023 & 2024.
 
 ## Dataset Used
-- <a href = "https://github.com/Abhijeet9340/Amazon-sales-data-analysis-Dashboard/blob/main/Sales%20Data.xlsx">Sales Data </a>
+- <a href = "https://github.com/Poonam-Atakare/Amazon-Sales-Data-Analysis-Dashboard/blob/main/Sales%20Data.xlsx">Sales Data </a>
 -	Dashboard with various visuals and KPIs
 -	Images: 
-- <a href = "https://github.com/Abhijeet9340/Amazon-sales-data-analysis-Dashboard/blob/main/1.%20Amazon.png">Amazon.png</a>
-- <a href ="https://github.com/Abhijeet9340/Amazon-sales-data-analysis-Dashboard/blob/main/2.%20DB.png">DB.png</a>
-- <a href ="https://github.com/Abhijeet9340/Amazon-sales-data-analysis-Dashboard/blob/main/3.%20Working.png"> Working.png</a>
-- <a href ="https://github.com/Abhijeet9340/Amazon-sales-data-analysis-Dashboard/blob/main/5.%20Help.png" >Help.png</a>
+- <a href = "https://github.com/Poonam-Atakare/Amazon-Sales-Data-Analysis-Dashboard/blob/main/1.%20Amazon.png">Amazon.png</a>
+- <a href ="https://github.com/Poonam-Atakare/Amazon-Sales-Data-Analysis-Dashboard/blob/main/2.%20DB.png">DB.png</a>
+- <a href ="https://github.com/Poonam-Atakare/Amazon-Sales-Data-Analysis-Dashboard/blob/main/3.%20Working.png"> Working.png</a>
+- <a href ="https://github.com/Poonam-Atakare/Amazon-Sales-Data-Analysis-Dashboard/blob/main/4.%20Working.png"> Working.png</a>
+- <a href ="https://github.com/Poonam-Atakare/Amazon-Sales-Data-Analysis-Dashboard/blob/main/5.%20Help.png" >Help.png</a>
 
 ## Key Questions (KPIs)
 •	Compare the sales and orders using a single chart.
